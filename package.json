@@ -1,0 +1,28 @@
+{
+    "name": "eslint-config-lcy-react",
+    "version": "1.0.2",
+    "description": "eslint config for react projects",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lincenying/eslint-config-lcy-react.git"
+    },
+    "keywords": [
+        "eslint",
+        "react"
+    ],
+    "author": "LinCenYing",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lincenying/eslint-config-lcy-react/issues"
+    },
+    "homepage": "https://github.com/lincenying/eslint-config-lcy-react#readme",
+    "devDependencies": {
+        "eslint": "^3.4.0",
+        "eslint-loader": "^1.5.0",
+        "eslint-plugin-babel": "^3.3.0",
+        "eslint-plugin-import": "^1.14.0",
+        "eslint-plugin-vue": "^0.1.1",
+        "eslint-plugin-react": "^6.2.0"
+    }
+}
