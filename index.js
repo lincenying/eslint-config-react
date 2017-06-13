@@ -161,7 +161,7 @@ module.exports = {
         "react/jsx-curly-spacing": 1,
         "react/jsx-equals-spacing": [1, "never"],
         "react/jsx-filename-extension": 1,
-        "react/jsx-first-prop-new-line": 1,
+        "react/jsx-first-prop-new-line": 0,
         "react/jsx-handler-names": [1, {
             "eventHandlerPrefix": "handle",
             "eventHandlerPropPrefix": "on"
@@ -186,7 +186,7 @@ module.exports = {
             "ignore": []
         }],
         "react/jsx-sort-props": 0,
-        "react/jsx-space-before-closing": 1,
+        "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "always" }],
         "react/jsx-uses-react": 1,
         "react/jsx-uses-vars": 1,
         "react/jsx-wrap-multilines": 0
