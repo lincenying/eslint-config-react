@@ -32,7 +32,8 @@ module.exports = {
     "plugins": [
         "import",
         "babel",
-        "react"
+        "react",
+        "html"
     ],
     "settings": {
         "import/ignore": [
