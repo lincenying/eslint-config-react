@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lcy-react",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "eslint config for react projects",
   "main": "index.js",
   "repository": {
@@ -18,13 +18,12 @@
   },
   "homepage": "https://github.com/lincenying/eslint-config-lcy-react#readme",
   "dependencies": {
-    "babel-eslint": "^7.1.1",
-    "eslint": "^4.0.0",
-    "eslint-loader": "^1.6.1",
-    "eslint-plugin-babel": "^4.0.1",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.1.0",
+    "eslint-loader": "^1.8.0",
+    "eslint-plugin-babel": "^4.1.1",
     "eslint-plugin-html": "^3.0.0",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-react": "^7.0.1",
-    "eslint-plugin-vue": "^2.0.1"
+    "eslint-plugin-import": "^2.6.0",
+    "eslint-plugin-react": "^7.1.0"
   }
 }
