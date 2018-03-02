@@ -79,7 +79,7 @@ module.exports = {
         "no-eval": 2,
         "no-extend-native": 2,
         "no-extra-bind": 2,
-        "no-extra-parens": 2,
+        "no-extra-parens": 0,
         "no-floating-decimal": 2,
         "no-implied-eval": 2,
         "no-inline-comments": 2,
