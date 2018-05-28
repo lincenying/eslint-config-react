@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lcy-react",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "eslint config for react projects",
   "main": "index.js",
   "repository": {
@@ -27,6 +27,6 @@
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.8.2",
-    "prettier": "^1.12.1"
+    "prettier": "^1.13.0"
   }
 }
