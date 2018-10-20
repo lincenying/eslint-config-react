@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lcy-react",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "eslint config for react projects",
   "main": "index.js",
   "repository": {

@@ -28,6 +28,9 @@ module.exports = {
   },
   plugins: ["import", "babel", "react", "html", "prettier"],
   settings: {
+    "react": {
+      "version": "999.999.999"
+    },
     "import/ignore": [
       "node_modules",
       "\\.(json|css|less|scss|jpg|png|gif|eot|svg|ttf|woff|woff2|mp4|webm)$",
