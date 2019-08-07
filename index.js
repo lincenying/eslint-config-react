@@ -128,8 +128,6 @@ module.exports = {
     "prefer-spread": 2,
     radix: 2,
     semi: ["error", "never"],
-    "sort-vars": 2,
-    "valid-jsdoc": 2,
     "wrap-regex": 2,
 
     "arrow-parens": [2, "as-needed"],
