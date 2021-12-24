@@ -24,6 +24,9 @@ module.exports = {
     ecmaFeatures: {
       jsx: true,
       generators: true
+    },
+    babelOptions: {
+      presets: ["@babel/preset-react"]
     }
   },
   plugins: ["import", "babel", "react", "html", "prettier"],
