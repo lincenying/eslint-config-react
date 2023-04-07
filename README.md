@@ -4,7 +4,7 @@ A set of opinionated ESLint (http://eslint.org) rules (all rules included) tailo
 
 Usage
 
-- npm install --save-dev eslint-config-lcy-react
+- pnpm install -D eslint eslint-config-lcy
 - create a file named .eslintrc in your project:
 ```
 {
