@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-lcy-react",
+  "name": "@lincy/eslint-config-react",
   "version": "4.0.1",
   "description": "LinCenYing's ESLint config",
   "author": "LinCenYing <lincenying@gmail.com> (https://github.com/lincenying/)",
@@ -16,14 +16,14 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-config-lcy": "^1.0.6",
+    "@lincy/eslint-config": "^1.1.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0"
   },
   "devDependencies": {
-    "eslint": "^8.37.0",
+    "eslint": "^8.38.0",
     "react": "^18.2.0",
-    "typescript": "^5.0.3"
+    "typescript": "^5.0.4"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
